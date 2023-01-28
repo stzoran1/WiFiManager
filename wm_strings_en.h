@@ -109,7 +109,7 @@ const char HTTP_STYLE[]            PROGMEM = "<style>"
 "td{vertical-align: top;}"
 ".h{display:none}"
 "button{transition: 0s opacity;transition-delay: 3s;transition-duration: 0s;cursor: pointer}"
-"button.D{background-color:#58bcb8}"
+"button.D{background-color:#dc3630}"
 "button:active{opacity:50% !important;cursor:wait;transition-delay: 0s}"
 // invert
 "body.invert,body.invert a,body.invert h1 {background-color:#060606;color:#fff;}"
